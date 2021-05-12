@@ -21,7 +21,7 @@
 <h5>Pre-requisiti:</h5>
 <ul>
     <li>Composer</li>
-    <li>Git command line (CLI)</li>
+    <li>Git command line (CLI) <a href="https://git-scm.com/download/mac">Installazione</a></li>
 <li>Access Token di GitHub <a style="font-weight: bold; text-decoration: underline" href="https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token">Istruzioni</a> </li>
 </ul>
 <h5>Uso:</h5>
