@@ -10,9 +10,9 @@
 <h5>Uso:</h5>
 <ol>
 <li>Creare Access Token sul portale GitHub e copiarlo nella clipboard</li>
-<li>Copiare il file Laravel-C&P_win.ps1 nella root delle Repo</li>
+<li>Copiare il file crealaravel-repo.ps1 <strong><u>nella root delle Repo</u></strong></li>
 <li>Aprire PowerShell nella cartella dove risiede il file appena copiato</li>
-<li>eseguire il file .ps1: <code>./Laravel-C&P_win.ps1</code> </li>
+<li>eseguire il file .ps1: <code>./crealaravel-repo.ps1</code> </li>
 <li>Inserire nome utente GitHub, Access Token e nome progetto laravel quanto chiesto che diventerà anche la repo su GitHub</li>
 <li>Lo script chiederà username e password di GitHub <span style="text-decoration: underline">più volte</span> </li>
 </ol>
