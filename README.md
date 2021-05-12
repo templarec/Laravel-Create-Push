@@ -3,6 +3,7 @@
 <h3>Windows</h3>
 <h5>Pre-requisiti:</h5>
 <ul>
+    <li>PowerShell abilitata all'esecuzione script (abilitare con <code>Set-ExecutionPolicy Unrestricted</code> in PowerShell)</li>
     <li>Composer</li>
     <li>Git command line (CLI)</li>
     <li>Access Token di GitHub <a style="font-weight: bold; text-decoration: underline" href="https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token">Istruzioni</a> </li>
