@@ -4,7 +4,7 @@ read NAME
 composer create-project --prefer-dist laravel/laravel:^7.0 $NAME
 cd $NAME
 touch README.md
-echo Inserisci username GitHub
+echo Inserisci username GitHub:
 read USERNAME
 curl -u $USERNAME \
   -X POST \
